@@ -1,5 +1,5 @@
 # OracleDatabase
-Ejercicios para practicar con Oracle Database
+Ejercicios para practicar con Oracle Database.
 El objetivo del siguiente ejercicio es guardar información sobre los animales que tenemos en un pequeño zoo en una base de datos Oracle Database.
 <ol>
   <li>Desde una conexión con el usuario SYSTEM, crea un usuario llamado REINO_ANIMAL. Crea una nueva conexión llamada CONEXION PARA REINO_ANIMAL.</li>
